@@ -25,7 +25,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France :croissant:.
 
 - :telescope: I’m working as a Data Scientist.
 
