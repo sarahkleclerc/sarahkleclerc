@@ -25,9 +25,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France :croissant:.
-
-- :telescope: I’m working as a Data Scientist.
+- :telescope: I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France :croissant:.
 
 - :deciduous_tree: I have an expertise in carbon footprint and environmental impacts assessments.
 
